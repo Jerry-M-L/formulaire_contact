@@ -1,6 +1,6 @@
 # Nom du Projet
 
-Une brève description de ce que fait votre projet.
+Ceci est un projet de formulaire de contact.
 
 ## Installation
 
